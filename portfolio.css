@@ -120,34 +120,34 @@ font-weight: bold;
 @media screen and (min-width:360px) and 
   (max-width:480px){
     display1{
-grid-template-column:repeat(1,1fr);
+grid-template-columns:repeat(1,1fr);
 }
 }
 @media screen and (min-width:480px) and 
 (max-width:576px){
 
 display1{
-grid-template-column:repeat(1,1fr);
+grid-template-columns:repeat(1,1fr);
 }
 }
 @media screen and (min-width:576px) and 
 (max-width:768px){
 
 display1{
-grid-template-column:repeat(2,1fr);
+grid-template-columns:repeat(2,1fr);
 }
 }
 @media screen and (min-width:768px) and 
 (max-width:992px){
 
 display1{
-grid-template-column:repeat(3,1fr);
+grid-template-columns:repeat(3,1fr);
 }
 }
 @media screen and (min-width:1200px) and 
 (max-width:1400px){
 
 display1{
-grid-template-column:repeat(3,1fr);
+grid-template-columns:repeat(3,1fr);
 }
 }
